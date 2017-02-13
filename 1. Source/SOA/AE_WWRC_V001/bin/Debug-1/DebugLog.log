@@ -1,0 +1,1031 @@
+[12/23/2014 17:00:13][                                  Main()] Starting Addon startup function
+[12/23/2014 17:00:13][                                  Main()] Initializing public SBO Application object
+[12/23/2014 17:00:13][                                  Main()] Retriving SBO application company handle
+[12/23/2014 17:00:16][                                  Main()] Calling ConnectDICompSSO()
+[12/23/2014 17:00:16][                      ConnectDICompSSO()] Starting function
+[12/23/2014 17:00:44][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/23/2014 17:00:44][                                  Main()] Creating Event handler class
+[12/23/2014 17:00:44][                      Class_Initialize()] Starting function
+[12/23/2014 17:00:44][                      Class_Initialize()] Retriving SBO Application handle
+[12/23/2014 17:00:44][                      Class_Initialize()] Completed with SUCCESS
+[12/23/2014 17:00:44][                                  Main()] Calling SetApplication Function
+[12/23/2014 17:00:44][                                  Main()] Addon started successfully
+[12/23/2014 17:29:08][                                  Main()] Starting Addon startup function
+[12/23/2014 17:29:08][                                  Main()] Initializing public SBO Application object
+[12/23/2014 17:29:08][                                  Main()] Retriving SBO application company handle
+[12/23/2014 17:29:10][                                  Main()] Calling ConnectDICompSSO()
+[12/23/2014 17:29:10][                      ConnectDICompSSO()] Starting function
+[12/23/2014 17:29:50][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/23/2014 17:29:50][                                  Main()] Creating Event handler class
+[12/23/2014 17:29:50][                      Class_Initialize()] Starting function
+[12/23/2014 17:29:50][                      Class_Initialize()] Retriving SBO Application handle
+[12/23/2014 17:29:50][                      Class_Initialize()] Completed with SUCCESS
+[12/23/2014 17:29:50][                                  Main()] Calling SetApplication Function
+[12/23/2014 17:29:50][                                  Main()] Addon started successfully
+[12/23/2014 17:34:20][                                  Main()] Starting Addon startup function
+[12/23/2014 17:34:20][                                  Main()] Initializing public SBO Application object
+[12/23/2014 17:34:20][                                  Main()] Retriving SBO application company handle
+[12/23/2014 17:34:23][                                  Main()] Calling ConnectDICompSSO()
+[12/23/2014 17:34:23][                      ConnectDICompSSO()] Starting function
+[12/23/2014 17:34:57][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/23/2014 17:34:57][                                  Main()] Creating Event handler class
+[12/23/2014 17:34:57][                      Class_Initialize()] Starting function
+[12/23/2014 17:34:57][                      Class_Initialize()] Retriving SBO Application handle
+[12/23/2014 17:34:57][                      Class_Initialize()] Completed with SUCCESS
+[12/23/2014 17:34:58][                                  Main()] Calling SetApplication Function
+[12/23/2014 17:34:58][                                  Main()] Addon started successfully
+[12/23/2014 17:58:36][                                  Main()] Starting Addon startup function
+[12/23/2014 17:58:36][                                  Main()] Initializing public SBO Application object
+[12/23/2014 17:58:36][                                  Main()] Retriving SBO application company handle
+[12/23/2014 17:58:37][                                  Main()] Calling ConnectDICompSSO()
+[12/23/2014 17:58:37][                      ConnectDICompSSO()] Starting function
+[12/23/2014 17:58:50][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/23/2014 17:58:50][                                  Main()] Creating Event handler class
+[12/23/2014 17:58:50][                      Class_Initialize()] Starting function
+[12/23/2014 17:58:50][                      Class_Initialize()] Retriving SBO Application handle
+[12/23/2014 17:58:50][                      Class_Initialize()] Completed with SUCCESS
+[12/23/2014 17:58:50][                                  Main()] Calling SetApplication Function
+[12/23/2014 17:58:50][                                  Main()] Addon started successfully
+[12/23/2014 17:58:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:02][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:04][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:04][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:04][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:04][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:04][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:04][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:06][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:28][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:31][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:56][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 17:59:59][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:03:30][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:03:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:01][                                  Main()] Starting Addon startup function
+[12/23/2014 18:14:01][                                  Main()] Initializing public SBO Application object
+[12/23/2014 18:14:01][                                  Main()] Retriving SBO application company handle
+[12/23/2014 18:14:02][                                  Main()] Calling ConnectDICompSSO()
+[12/23/2014 18:14:02][                      ConnectDICompSSO()] Starting function
+[12/23/2014 18:14:09][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/23/2014 18:14:09][                                  Main()] Creating Event handler class
+[12/23/2014 18:14:09][                      Class_Initialize()] Starting function
+[12/23/2014 18:14:09][                      Class_Initialize()] Retriving SBO Application handle
+[12/23/2014 18:14:09][                      Class_Initialize()] Completed with SUCCESS
+[12/23/2014 18:14:12][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:30][                                  Main()] Calling SetApplication Function
+[12/23/2014 18:14:30][                                  Main()] Addon started successfully
+[12/23/2014 18:14:30][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:34][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:34][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:34][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:34][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:36][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:36][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:36][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:36][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:36][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:37][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:37][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:37][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:37][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:37][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:37][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:37][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:38][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:38][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:38][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:38][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:39][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:39][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:39][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:39][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:14:45][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:15:28][                                  Main()] Starting Addon startup function
+[12/23/2014 18:15:28][                                  Main()] Initializing public SBO Application object
+[12/23/2014 18:15:28][                                  Main()] Retriving SBO application company handle
+[12/23/2014 18:15:28][                                  Main()] Calling ConnectDICompSSO()
+[12/23/2014 18:15:28][                      ConnectDICompSSO()] Starting function
+[12/23/2014 18:15:36][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/23/2014 18:15:36][                                  Main()] Creating Event handler class
+[12/23/2014 18:15:36][                      Class_Initialize()] Starting function
+[12/23/2014 18:15:36][                      Class_Initialize()] Retriving SBO Application handle
+[12/23/2014 18:15:36][                      Class_Initialize()] Completed with SUCCESS
+[12/23/2014 18:27:26][                                  Main()] Starting Addon startup function
+[12/23/2014 18:27:26][                                  Main()] Initializing public SBO Application object
+[12/23/2014 18:27:26][                                  Main()] Retriving SBO application company handle
+[12/23/2014 18:27:38][                                  Main()] Calling ConnectDICompSSO()
+[12/23/2014 18:27:38][                      ConnectDICompSSO()] Starting function
+[12/23/2014 18:28:48][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/23/2014 18:28:48][                                  Main()] Creating Event handler class
+[12/23/2014 18:28:48][                      Class_Initialize()] Starting function
+[12/23/2014 18:28:48][                      Class_Initialize()] Retriving SBO Application handle
+[12/23/2014 18:28:48][                      Class_Initialize()] Completed with SUCCESS
+[12/23/2014 18:28:56][                                  Main()] Calling SetApplication Function
+[12/23/2014 18:28:56][                                  Main()] Addon started successfully
+[12/23/2014 18:29:24][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:29:24][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:29:24][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:29:31][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:33][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:45][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:45][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:45][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:45][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:45][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:45][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:47][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:47][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:47][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:47][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:50][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:50][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:50][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:50][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:51][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:51][             SBO_Application_MenuEvent()] Starting function
+[12/23/2014 18:34:51][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/23/2014 18:34:51][             SBO_Application_MenuEvent()] Starting function
+[12/23/2014 18:34:51][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:51][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:51][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:51][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:52][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:53][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:54][             SBO_Application_ItemEvent()] Starting function
+[12/23/2014 18:34:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:11:34][                                  Main()] Starting Addon startup function
+[12/24/2014 07:11:34][                                  Main()] Initializing public SBO Application object
+[12/24/2014 07:11:34][                                  Main()] Retriving SBO application company handle
+[12/24/2014 07:11:37][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 07:11:37][                      ConnectDICompSSO()] Starting function
+[12/24/2014 07:11:51][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/24/2014 07:11:51][                                  Main()] Creating Event handler class
+[12/24/2014 07:11:51][                      Class_Initialize()] Starting function
+[12/24/2014 07:11:51][                      Class_Initialize()] Retriving SBO Application handle
+[12/24/2014 07:11:51][                      Class_Initialize()] Completed with SUCCESS
+[12/24/2014 07:11:52][                                  Main()] Calling SetApplication Function
+[12/24/2014 07:11:52][                                  Main()] Addon started successfully
+[12/24/2014 07:12:00][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:00][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:00][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:00][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:01][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:01][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 07:12:01][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 07:12:01][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 07:12:01][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:01][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:01][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:01][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:05][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:09][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:12:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 07:14:40][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 08:05:05][                                  Main()] Starting Addon startup function
+[12/24/2014 08:05:05][                                  Main()] Initializing public SBO Application object
+[12/24/2014 08:05:05][                                  Main()] Retriving SBO application company handle
+[12/24/2014 08:05:06][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 08:05:06][                      ConnectDICompSSO()] Starting function
+[12/24/2014 08:05:06][                      ConnectDICompSSO()] Completed with ERROR
+[12/24/2014 08:05:27][                                  Main()] Starting Addon startup function
+[12/24/2014 08:05:27][                                  Main()] Initializing public SBO Application object
+[12/24/2014 08:05:52][                                  Main()] Retriving SBO application company handle
+[12/24/2014 08:06:00][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 08:06:04][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:10:14][                                  Main()] Starting Addon startup function
+[12/24/2014 09:10:14][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:10:20][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:10:27][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:10:31][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:13:45][                                  Main()] Starting Addon startup function
+[12/24/2014 09:13:45][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:14:02][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:14:05][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:14:12][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:15:11][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/24/2014 09:15:17][                                  Main()] Creating Event handler class
+[12/24/2014 09:15:17][                      Class_Initialize()] Starting function
+[12/24/2014 09:15:17][                      Class_Initialize()] Retriving SBO Application handle
+[12/24/2014 09:15:17][                      Class_Initialize()] Completed with SUCCESS
+[12/24/2014 09:15:17][                                  Main()] Calling SetApplication Function
+[12/24/2014 09:15:17][                                  Main()] Addon started successfully
+[12/24/2014 09:16:15][                                  Main()] Starting Addon startup function
+[12/24/2014 09:16:15][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:16:15][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:16:16][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:16:16][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:16:21][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/24/2014 09:16:38][                                  Main()] Creating Event handler class
+[12/24/2014 09:16:44][                      Class_Initialize()] Starting function
+[12/24/2014 09:16:47][                      Class_Initialize()] Retriving SBO Application handle
+[12/24/2014 09:16:49][                      Class_Initialize()] Completed with SUCCESS
+[12/24/2014 09:17:15][                                  Main()] Calling SetApplication Function
+[12/24/2014 09:17:19][                                  Main()] Addon started successfully
+[12/24/2014 09:17:39][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:42][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:42][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:42][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:42][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:42][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:42][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:17:43][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:43][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:44][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:44][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:44][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:44][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:44][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:44][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:44][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:45][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:45][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:46][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:46][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:46][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:46][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:17:47][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:21:39][                                  Main()] Starting Addon startup function
+[12/24/2014 09:21:39][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:21:39][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:21:40][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:21:40][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:21:45][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/24/2014 09:21:45][                                  Main()] Creating Event handler class
+[12/24/2014 09:21:45][                      Class_Initialize()] Starting function
+[12/24/2014 09:21:45][                      Class_Initialize()] Retriving SBO Application handle
+[12/24/2014 09:21:45][                      Class_Initialize()] Completed with ERROR
+[12/24/2014 09:21:45][                                  Main()] Calling SetApplication Function
+[12/24/2014 09:21:45][                                  Main()] Addon started successfully
+[12/24/2014 09:25:08][                                  Main()] Starting Addon startup function
+[12/24/2014 09:25:08][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:25:08][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:25:08][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:25:08][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:25:13][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/24/2014 09:25:13][                                  Main()] Creating Event handler class
+[12/24/2014 09:25:13][                      Class_Initialize()] Starting function
+[12/24/2014 09:25:13][                      Class_Initialize()] Retriving SBO Application handle
+[12/24/2014 09:25:13][                      Class_Initialize()] Completed with SUCCESS
+[12/24/2014 09:25:13][                                  Main()] Calling SetApplication Function
+[12/24/2014 09:25:13][                                  Main()] Addon started successfully
+[12/24/2014 09:25:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:25:19][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:25:50][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:27:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:30:33][                                  Main()] Starting Addon startup function
+[12/24/2014 09:30:33][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:30:33][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:30:33][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:30:33][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:31:12][                                  Main()] Starting Addon startup function
+[12/24/2014 09:31:12][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:31:12][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:31:12][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:31:12][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:31:17][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/24/2014 09:31:17][                                  Main()] Creating Event handler class
+[12/24/2014 09:31:17][                      Class_Initialize()] Starting function
+[12/24/2014 09:31:17][                      Class_Initialize()] Retriving SBO Application handle
+[12/24/2014 09:31:17][                      Class_Initialize()] Completed with SUCCESS
+[12/24/2014 09:31:17][                                  Main()] Calling SetApplication Function
+[12/24/2014 09:31:17][                                  Main()] Addon started successfully
+[12/24/2014 09:31:22][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:23][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:24][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:29][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:31][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:32][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:33][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:33][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:46][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:46][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:48][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:48][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:50][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:50][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:51][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:52][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:53][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:53][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:54][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:55][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:56][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:57][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:58][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:58][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:58][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:58][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:58][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:58][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:31:59][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:00][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:02][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:03][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:03][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:04][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:32:06][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:06][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:08][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:09][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:10][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:11][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:11][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:11][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:11][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:11][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:11][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:11][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:13][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:13][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:13][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:13][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:14][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:25][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:28][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:30][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:30][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[12/24/2014 09:32:30][                      HeaderValidation()] Starting function
+[12/24/2014 09:32:30][                      HeaderValidation()] Completed with SUCCESS
+[12/24/2014 09:32:30][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[12/24/2014 09:32:30][                  Loading_AgingDetails()] Starting function
+[12/24/2014 09:32:30][                  Loading_AgingDetails()] Calling AgingDate()
+[12/24/2014 09:32:30][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP003'WWC100001','WWV100758','20141224','1'
+[12/24/2014 09:32:34][                  Loading_AgingDetails()] Completed with SUCCESS
+[12/24/2014 09:32:34][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:35][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:35][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:35][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:35][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:35][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:35][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:36][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:37][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:37][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:32:38][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:12][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:13][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:33:13][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:33:13][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:33:13][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:33:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:15][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:33:16][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:16][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:17][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:18][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:18][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:33:18][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:33:18][             SBO_Application_MenuEvent()] Starting function
+[12/24/2014 09:33:18][             SBO_Application_MenuEvent()] Completed with SUCCESS
+[12/24/2014 09:33:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:19][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:20][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:21][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:21][             SBO_Application_ItemEvent()] Calling HeaderValidation()
+[12/24/2014 09:33:21][                      HeaderValidation()] Starting function
+[12/24/2014 09:33:21][                      HeaderValidation()] Completed with SUCCESS
+[12/24/2014 09:33:21][             SBO_Application_ItemEvent()] Calling Loading_AgingDetails()
+[12/24/2014 09:33:21][                  Loading_AgingDetails()] Starting function
+[12/24/2014 09:33:21][                  Loading_AgingDetails()] Calling AgingDate()
+[12/24/2014 09:33:21][                  Loading_AgingDetails()] SQL AB_SOA_OS_SP003'WWC101445','WWC101447','20141224','1'
+[12/24/2014 09:33:22][                  Loading_AgingDetails()] Completed with SUCCESS
+[12/24/2014 09:33:22][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:26][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:33:27][             SBO_Application_ItemEvent()] Starting function
+[12/24/2014 09:34:14][                                  Main()] Starting Addon startup function
+[12/24/2014 09:34:14][                                  Main()] Initializing public SBO Application object
+[12/24/2014 09:34:14][                                  Main()] Retriving SBO application company handle
+[12/24/2014 09:34:14][                                  Main()] Calling ConnectDICompSSO()
+[12/24/2014 09:34:14][                      ConnectDICompSSO()] Starting function
+[12/24/2014 09:34:20][                      ConnectDICompSSO()] Completed with SUCCESS
+[12/24/2014 09:34:20][                                  Main()] Creating Event handler class
+[12/24/2014 09:34:20][                      Class_Initialize()] Starting function
+[12/24/2014 09:34:20][                      Class_Initialize()] Retriving SBO Application handle
+[12/24/2014 09:34:20][                      Class_Initialize()] Completed with SUCCESS
+[12/24/2014 09:34:20][                                  Main()] Calling SetApplication Function
+[12/24/2014 09:34:20][                                  Main()] Addon started successfully

@@ -1,0 +1,18 @@
+[01/29/2015 15:40:38][                         GenerateXMlFile] Conversion from string "" to type 'Double' is not valid.
+[01/29/2015 16:15:22][                         GenerateXMlFile] Could not find a part of the path 'F:\Application\SAP B1\SVN\WWRC\ae-sgwwrc\AE_WWRC_V001\bin\Debug\g\GSTAuditFile_201501291615.xml'.
+[01/29/2015 16:15:22][                            GSTAuditFile] 
+[01/29/2015 16:15:22][             SBO_Application_ItemEvent()] Procedure call or argument is not valid.
+[10/20/2015 19:48:17][                GetSystemIntializeInfo()] Invalid field name
+[10/20/2015 19:48:17][                                  Main()] Exception of type 'System.ArgumentException' was thrown.
+[10/20/2015 19:50:14][                           ExportToPDF()] Memory full.Failed to export the report.
+Not enough memory for operation.
+[10/20/2015 19:50:15][             SBO_Application_ItemEvent()] Memory full.Failed to export the report.
+Not enough memory for operation.
+[11/30/2015 12:51:41][                           ExportToPDF()] This field name is not known.Error in File C:\Users\John\AppData\Local\Temp\2\Statement_of_Account_V2 {2A22ED06-5E25-4AEE-BA27-37CD91E16EA9}.rpt:
+Error in formula  <LastMonth>. 
+'if DATE(YEAR({OBT_STD_RPT003_CustomerStatement;1.DocDate}),MONTH({OBT_STD_RPT003_CustomerStatement;1.DocDate}),01) = DATEADD("m",-1,DATE(YEAR({?@DateTo}),MONTH({?@DateTo}),01)) then'
+This field name is not known.
+[11/30/2015 12:51:41][             SBO_Application_ItemEvent()] This field name is not known.Error in File C:\Users\John\AppData\Local\Temp\2\Statement_of_Account_V2 {2A22ED06-5E25-4AEE-BA27-37CD91E16EA9}.rpt:
+Error in formula  <LastMonth>. 
+'if DATE(YEAR({OBT_STD_RPT003_CustomerStatement;1.DocDate}),MONTH({OBT_STD_RPT003_CustomerStatement;1.DocDate}),01) = DATEADD("m",-1,DATE(YEAR({?@DateTo}),MONTH({?@DateTo}),01)) then'
+This field name is not known.
